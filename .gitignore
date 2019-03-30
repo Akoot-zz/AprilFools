@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+AprilFools.iml
+out/
+target/
+testserver/

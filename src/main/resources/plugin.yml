@@ -1,0 +1,15 @@
+name: AprilFools
+version: ${project.version}
+main: com.akoot.plugins.aprilfools.AprilFools
+api-version: 1.13
+authors: [Akoot_, CrateOfBoxes]
+description: April Fools!
+commands:
+  fool:
+    description: Enable or disable fool mode
+    usage: |
+      /fool true
+      /fool false
+  fooled:
+    description: Flag yourself as fooled
+    usage: /fooled
